@@ -1,4 +1,4 @@
-# ATM Machine Java Code Readme
+# ATM Machine Java Code
 
 This repository contains a simple ATM machine simulation implemented in Java. The program provides basic functionalities like checking balance, depositing funds, withdrawing funds, displaying a mini statement, and exiting the ATM session. The code is well-documented to help users understand its functionality and usage.
 
